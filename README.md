@@ -16,3 +16,9 @@ Quiz project for Python Assessment
       Test taker’s details and the result should be displayed on the screen.
       
 **********************************************************************************************************************************
+## Run the Application
+
+      Run users.py file to run the Quiz Application
+      Password for SuperUser is encrypted in base64
+   
+**********************************************************************************************************************************
