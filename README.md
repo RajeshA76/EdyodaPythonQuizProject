@@ -18,7 +18,7 @@ Quiz project for Python Assessment
 **********************************************************************************************************************************
 ## Run the Application
 
-      Run users.py file to run the Quiz Application
+      Run **users.py** file to run the Quiz Application
       Password for SuperUser is encrypted in base64
    
 **********************************************************************************************************************************
