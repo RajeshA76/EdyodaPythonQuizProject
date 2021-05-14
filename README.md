@@ -1,11 +1,13 @@
 # EdyodaPythonQuizProject
+
 Quiz project for Python Assessment
+
 ********************************************************************************************************************************
-###Problem Details 
+## Problem Details 
 
       The objective of this project is to set quizzes and allow users to take up the multiple-choice quiz using the command line. 
       
-##Features:
+## Features:
 
       Super-users should be able to set up the questions and correct answers for the question.
       Super-users should be able to add the questions based on the topics and difficulty level.
@@ -14,8 +16,7 @@ Quiz project for Python Assessment
       The application should display the final score and the right answers.
       When a user attempts a quiz, questions need to be fetched automatically from the one’s set by admin.
       Test taker’s details and the result should be displayed on the screen.
-      
-**********************************************************************************************************************************
+    
 ## Run the Application
 
       Execute **users.py** file to run the Quiz Application
